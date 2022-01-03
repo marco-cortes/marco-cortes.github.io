@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e46ef9cc.css",
-    "main.js": "/static/js/main.72592b35.js",
+    "main.js": "/static/js/main.a326ceef.js",
     "static/media/rhaast.png": "/static/media/rhaast.abf8b8e8ddeb2323fbf7.png",
     "static/media/kayn.jpg": "/static/media/kayn.98eff4d313e9be9350b0.jpg",
     "static/media/REACT.pdf": "/static/media/REACT.6bbb8050bee2fb4c5159.pdf",
@@ -10,17 +10,19 @@
     "static/media/PHP.pdf": "/static/media/PHP.53b27d67271440db3af6.pdf",
     "static/media/LARAVEL.pdf": "/static/media/LARAVEL.c6116555dc9a6d584ebc.pdf",
     "static/media/NODE.pdf": "/static/media/NODE.3eb12de23920cb55d0c6.pdf",
+    "static/media/CCH.pdf": "/static/media/CCH.4858107e0050c8d79288.pdf",
     "static/media/AZURE.pdf": "/static/media/AZURE.a217171f804ca4693aff.pdf",
+    "static/media/FES.pdf": "/static/media/FES.864d5c8567d59d79ae38.pdf",
     "static/media/SPRING.pdf": "/static/media/SPRING.b728b0697b90a2ae93f3.pdf",
     "static/media/HTML.pdf": "/static/media/HTML.12739cce46dc8934f706.pdf",
     "static/media/portfolio3.jpg": "/static/media/portfolio3.f0e7fa8280d9df023e12.jpg",
     "static/media/portfolio1.jpg": "/static/media/portfolio1.b100f823e1d9a2e55cca.jpg",
     "index.html": "/index.html",
     "main.e46ef9cc.css.map": "/static/css/main.e46ef9cc.css.map",
-    "main.72592b35.js.map": "/static/js/main.72592b35.js.map"
+    "main.a326ceef.js.map": "/static/js/main.a326ceef.js.map"
   },
   "entrypoints": [
     "static/css/main.e46ef9cc.css",
-    "static/js/main.72592b35.js"
+    "static/js/main.a326ceef.js"
   ]
 }
