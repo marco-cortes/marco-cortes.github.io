@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.c25bc761.css",
-    "main.js": "/static/js/main.cb1b26c4.js",
+    "main.css": "/static/css/main.0a3fbc60.css",
+    "main.js": "/static/js/main.ba6584c0.js",
     "static/media/rhaast.png": "/static/media/rhaast.abf8b8e8ddeb2323fbf7.png",
     "static/media/kayn.jpg": "/static/media/kayn.98eff4d313e9be9350b0.jpg",
     "static/media/REACT.pdf": "/static/media/REACT.6bbb8050bee2fb4c5159.pdf",
@@ -15,14 +15,19 @@
     "static/media/FES.pdf": "/static/media/FES.864d5c8567d59d79ae38.pdf",
     "static/media/SPRING.pdf": "/static/media/SPRING.b728b0697b90a2ae93f3.pdf",
     "static/media/HTML.pdf": "/static/media/HTML.12739cce46dc8934f706.pdf",
-    "static/media/portfolio3.jpg": "/static/media/portfolio3.f0e7fa8280d9df023e12.jpg",
-    "static/media/portfolio1.jpg": "/static/media/portfolio1.b100f823e1d9a2e55cca.jpg",
+    "static/media/REACT_F.pdf": "/static/media/REACT_F.b11a8ebb4bdf54cd58cb.pdf",
+    "static/media/laravel.png": "/static/media/laravel.6b1b4e97077a29225a1c.png",
+    "static/media/springreact.svg": "/static/media/springreact.4d4d13034ae9ecf00b6100d23a1d57f6.svg",
+    "static/media/reactfirebase.svg": "/static/media/reactfirebase.a401b2b671f0f9a00135fd9ad08c2362.svg",
+    "static/media/mern.svg": "/static/media/mern.64c41c2488db936dd373563c96fd55e0.svg",
+    "static/media/react.svg": "/static/media/react.56449d37a20c2dad820e866e1f36a4e4.svg",
+    "static/media/spring-logo.svg": "/static/media/spring-logo.5e950eb412f3de03ef03279d74b24a04.svg",
     "index.html": "/index.html",
-    "main.c25bc761.css.map": "/static/css/main.c25bc761.css.map",
-    "main.cb1b26c4.js.map": "/static/js/main.cb1b26c4.js.map"
+    "main.0a3fbc60.css.map": "/static/css/main.0a3fbc60.css.map",
+    "main.ba6584c0.js.map": "/static/js/main.ba6584c0.js.map"
   },
   "entrypoints": [
-    "static/css/main.c25bc761.css",
-    "static/js/main.cb1b26c4.js"
+    "static/css/main.0a3fbc60.css",
+    "static/js/main.ba6584c0.js"
   ]
 }
