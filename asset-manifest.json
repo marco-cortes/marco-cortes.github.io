@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.0a3fbc60.css",
-    "main.js": "/static/js/main.1d82777d.js",
+    "main.js": "/static/js/main.fb76553f.js",
     "static/media/rhaast.png": "/static/media/rhaast.abf8b8e8ddeb2323fbf7.png",
     "static/media/kayn.jpg": "/static/media/kayn.98eff4d313e9be9350b0.jpg",
     "static/media/REACT.pdf": "/static/media/REACT.6bbb8050bee2fb4c5159.pdf",
@@ -11,23 +11,24 @@
     "static/media/LARAVEL.pdf": "/static/media/LARAVEL.c6116555dc9a6d584ebc.pdf",
     "static/media/NODE.pdf": "/static/media/NODE.3eb12de23920cb55d0c6.pdf",
     "static/media/CCH.pdf": "/static/media/CCH.4858107e0050c8d79288.pdf",
+    "static/media/todo.png": "/static/media/todo.26f2f0d7191112020c1e.png",
     "static/media/AZURE.pdf": "/static/media/AZURE.a217171f804ca4693aff.pdf",
     "static/media/SPRING.pdf": "/static/media/SPRING.b728b0697b90a2ae93f3.pdf",
     "static/media/HTML.pdf": "/static/media/HTML.12739cce46dc8934f706.pdf",
     "static/media/REACT_F.pdf": "/static/media/REACT_F.b11a8ebb4bdf54cd58cb.pdf",
     "static/media/FES.pdf": "/static/media/FES.234b6bcfafdba5b27af8.pdf",
     "static/media/laravel.png": "/static/media/laravel.6b1b4e97077a29225a1c.png",
-    "static/media/springreact.svg": "/static/media/springreact.4d4d13034ae9ecf00b6100d23a1d57f6.svg",
+    "static/media/csTeam.png": "/static/media/csTeam.df56df569842b7d63f20.png",
     "static/media/reactfirebase.svg": "/static/media/reactfirebase.a401b2b671f0f9a00135fd9ad08c2362.svg",
     "static/media/mern.svg": "/static/media/mern.64c41c2488db936dd373563c96fd55e0.svg",
     "static/media/react.svg": "/static/media/react.56449d37a20c2dad820e866e1f36a4e4.svg",
     "static/media/spring-logo.svg": "/static/media/spring-logo.5e950eb412f3de03ef03279d74b24a04.svg",
     "index.html": "/index.html",
     "main.0a3fbc60.css.map": "/static/css/main.0a3fbc60.css.map",
-    "main.1d82777d.js.map": "/static/js/main.1d82777d.js.map"
+    "main.fb76553f.js.map": "/static/js/main.fb76553f.js.map"
   },
   "entrypoints": [
     "static/css/main.0a3fbc60.css",
-    "static/js/main.1d82777d.js"
+    "static/js/main.fb76553f.js"
   ]
 }
